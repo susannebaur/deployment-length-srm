@@ -1,11 +1,10 @@
-# Baur et al SRM commitment
+# Baur et al Deployment Length of SRM
 
 ## Installation
 
 ### Required packages
 
-The simplest way to get setup is using conda or mamba. Once you have conda or mamba installed, you
-can simply run the following steps.
+Install conda or mamaba then run the following steps.
 
 ```sh
 # create a new conda environment
