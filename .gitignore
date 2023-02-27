@@ -1,0 +1,95 @@
+########### Created by us
+data/raw/
+
+# iteration plots
+ensemble_15_trajectories/
+
+#papermill output.ipynb
+papermill_output/
+
+<<<<<<< HEAD
+#processed data
+interim/
+
+#1.5 goal trajectory data
+15_ERF_trajectories/
+15_T_trajectories/
+
+data/
+
+plots/
+
+########### Downloaded by users, don't track
+magicc-files
+magicc-bits-and-pieces
+*magicc*
+
+
+## LaTeX
+*.aux
+*.log
+*.bbl
+*.blg
+*.fls
+*.out
+*.xml
+*.bcf
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Apple stuff
+*.DS_Store
+
+# Office caches
+~$*
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# dotenv
+.env
+
+# virtualenv
+venv*/
+ENV/
+
+.cache
+.coverage
+
+# scons stuff
+.phony_nbflow-notebooks/
+.sconsign.dblite
