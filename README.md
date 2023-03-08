@@ -1,4 +1,4 @@
-# Baur et al Deployment Length of SRM
+# Baur et al The Deployment Length of Solar Radiation Modification: An Interplay of Mitigation, Net-negative Emissions and Climate Uncertainty 
 
 [![DOI](https://zenodo.org/badge/611173270.svg)](https://zenodo.org/badge/latestdoi/611173270)
 
