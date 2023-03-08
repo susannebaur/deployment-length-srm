@@ -1,5 +1,9 @@
 # Baur et al Deployment Length of SRM
 
+[![DOI](https://zenodo.org/badge/611173270.svg)](https://zenodo.org/badge/latestdoi/611173270)
+
+
+
 ## Installation
 
 ### Required packages
